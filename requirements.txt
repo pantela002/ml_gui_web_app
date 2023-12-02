@@ -1,0 +1,7 @@
+streamlit
+Pillow
+pandas
+numpy
+streamlit_drawable_canvas
+torch
+torchvision
