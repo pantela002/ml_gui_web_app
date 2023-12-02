@@ -1,5 +1,5 @@
 streamlit
-Pillow
+Pillow==9.4.0
 pandas
 numpy
 streamlit_drawable_canvas
